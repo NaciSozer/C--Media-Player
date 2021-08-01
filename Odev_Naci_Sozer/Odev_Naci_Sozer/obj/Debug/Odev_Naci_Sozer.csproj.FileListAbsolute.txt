@@ -1,0 +1,15 @@
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\bin\Debug\Odev_Naci_Sozer.exe.config
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\bin\Debug\Odev_Naci_Sozer.exe
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\bin\Debug\Odev_Naci_Sozer.pdb
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.csprojAssemblyReference.cache
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.Form1.resources
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.Form2.resources
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.Properties.Resources.resources
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.csproj.GenerateResource.cache
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.exe
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.pdb
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\bin\Debug\Interop.WMPLib.dll
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Interop.WMPLib.dll
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\naci_\source\repos\Odev_Naci_Sozer\Odev_Naci_Sozer\obj\Debug\Odev_Naci_Sozer.csproj.ResolveComReference.cache
